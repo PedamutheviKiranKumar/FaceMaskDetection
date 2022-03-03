@@ -1,0 +1,2 @@
+# FaceMaskDetection
+The key explanation that infection and prevention professionals advise that health care staff wear a façade while approaching a patient's room that could develop a viral respiratory infection is self-protection. However, face masks could help protect health workers as well as the public with COVID-19. We propose using a customized convolution neural network to detect people with and without face masks from images. The proposed model archives considerable training accuracy of 78.79%, whereas a testing accuracy of 68.48% is achieved.
